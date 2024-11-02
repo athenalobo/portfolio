@@ -16,15 +16,15 @@ const AboutPage = () => {
           <div className="roadmap-icon"><FaBriefcase /></div>
           <h2 className="roadmap-section-title">Professional Experience</h2>
           <div className="roadmap-item">
-            <p><strong>2023 - Present</strong> Junior Software Engineer<br />CAST Software, Bengaluru, India</p>
+            <p><strong>2023 - Present | Junior Software Engineer<br />CAST Software, Bengaluru, India </strong></p>
             <p>Actively developing UI and CLI components in React.js and Python with a focus on cloud scalability for CAST Imaging, while serving as Scrum Master for cross-functional, international teams.</p>
           </div>
           <div className="roadmap-item">
-            <p><strong>2022 - 2023</strong> Machine Learning Intern<br />MSR University</p>
+            <p><strong>2022 - 2023 | Machine Learning Intern<br />MSR University </strong> </p>
             <p>Developed and implemented machine learning models for Carnatic and Hindustani music, including Hidden Markov models and genre classification models, using Python.</p>
           </div>
           <div className="roadmap-item">
-            <p><strong>2021 - 2022</strong> Full-Stack Developer<br />MSR Hospital- Boond Project</p>
+            <p><strong>2021 - 2022 | Full-Stack Developer<br />MSR Hospital- Boond Project </strong></p>
             <p>Created a blood donation website with JavaScript, XAMPP, and an SQL database, enhancing patient accessibility and donor engagement in this socially impactful project.</p>
           </div>
         </section>
