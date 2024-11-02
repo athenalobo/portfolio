@@ -20,6 +20,7 @@ body {
     width: 90%;
     text-align: center;
     color: #333;
+    width: 90vw;
 }
 
 .profile-section {
@@ -198,4 +199,5 @@ body {
     .grid-container {
         gap: 10px;
     }
+    
 }
