@@ -71,13 +71,13 @@ const AboutPage = () => {
           </div>
         </section>
 
-        <section className="roadmap-section">
+        {/* <section className="roadmap-section">
           <div className="roadmap-icon"><FaProjectDiagram /></div>
           <h2 className="roadmap-section-title">Personal Projects</h2>
           <div className="roadmap-item">
             <p>Developed an interactive coding game in C# and Unity, designed to teach basic programming principles such as conditionals and loops.</p>
           </div>
-        </section>
+        </section> */}
 
         <section className="roadmap-section">
           <div className="roadmap-icon"><FaAward /></div>
